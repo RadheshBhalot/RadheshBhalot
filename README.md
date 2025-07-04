@@ -2,7 +2,7 @@
 
 🎓 Student | 💻 Full-Stack Developer | 🚀 Passionate about building web applications
 
-Welcome to my GitHub profile! I'm a student with a strong interest in web development and programming. I enjoy working with the MERN stack, Php(core), Laravel, C++, and modern front-end technologies like Tailwind CSS, Bootstrap, and JavaScript. Here, you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a student with a strong interest in web development and programming. I enjoy working with the MERN stack, PHP(core), Laravel, C++, and modern front-end technologies like Tailwind CSS, Bootstrap, and JavaScript. Here, you'll find some of my projects and contributions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radhesh_bhalot18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radhesh-bhalot-ab3b79312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhalotraju949@gmail.com ) 
